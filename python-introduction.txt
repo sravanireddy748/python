@@ -1,0 +1,39 @@
+                     python
+                                     ---------------------
+-> Python is programming language
+-> language : it is mediator to communicate wit others
+-> programing : programming is a set of instruction
+
+
+-> it is high-level programing language
+
+PVM -- python virtual machine 
+--------------------------------------
+ It will convert the high-level to low level language and low level - high level language
+
+-> python is both compile time and interpreted language.
+
+-> complier : compiler will check entire file at a time.
+-> interpreted : will check the code line by line. 
+
+-> python is dynamically typed language : there is no need to mention datatypes.
+
+-> it is both object oriented and procedure oriented
+
+uses 
+---------------------------
+. data science
+. llm /gen ai/rag
+. 250+ libraries
+. web application
+. apps
+
+
+
+
+
+
+
+
+
+
